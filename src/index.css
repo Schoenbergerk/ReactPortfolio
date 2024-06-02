@@ -7,9 +7,9 @@ main {
   --primary: #8c54ff;
   --secondary: #31343D;
   --tertiary: #b12704;
-  --light: #fafafa;
-  --dark: #50565a;
-  --darker: #1F3B60;
+  --light: #000000;
+  --dark: #e6d0b0;
+  --darker: #ca5f5f;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
