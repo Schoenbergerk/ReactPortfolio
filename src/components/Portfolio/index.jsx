@@ -6,35 +6,35 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surfReport',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'logo',
+      description: '3 Character logo generator',
+      link: "https://github.com/Schoenbergerk/",
+      repo: "https://github.com/Schoenbergerk/SVG-Logo"
     },
     {
-      name: 'pastelPuzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'ecomm',
+      description: 'Mongo, Express, and Node',
+      link: "https://github.com/Schoenbergerk/",
+      repo: "https://github.com/Schoenbergerk/ecomm"
     },
     {
-      name: 'runBuddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'planner',
+      description: 'JQuery',
+      link: "https://schoenbergerk.github.io/SchedulingCalendar/",
+      repo: "https://github.com/Schoenbergerk/SchedulingCalendar"
     },
     {
-      name: 'ledWall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'weather',
+      description: 'JavaScript and API calls',
+      link: "https://schoenbergerk.github.io/WeatherApp/",
+      repo: "https://github.com/Schoenbergerk/WeatherApp"
     },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
+    // {
+    //   name: 'calculator',
+    //   description: 'React/JavaScript/CSS',
+    //   link: "https://github.com/Schoenbergerk/",
+    //   repo: "https://github.com"
+    // },
   ]);
 
   return (

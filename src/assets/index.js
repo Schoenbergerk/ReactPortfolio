@@ -1,5 +1,5 @@
-export { default as calculator } from './projects/calculator.jpg';
-export { default as ledWall } from './projects/ledWall.jpg';
-export { default as pastelPuzzels } from './projects/pastelPuzzels.jpg';
-export { default as runBuddy } from './projects/runBuddy.jpg';
-export { default as surfReport } from './projects/surfReport.jpg';
+export { default as logo } from './projects/logo.jpg';
+export { default as ecomm } from './projects/ecommerce.jpg';
+export { default as planner } from './projects/planner.jpg';
+export { default as weather } from './projects/weather.jpg';
+// export { default as calculator } from './projects/calculator.jpg';
